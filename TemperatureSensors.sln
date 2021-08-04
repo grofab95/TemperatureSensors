@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureSensors", "TemperatureSensors\TemperatureSensors.csproj", "{3FF017FE-B0CC-4CF1-AFFD-FD76C3492B50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureSensors.Tests", "TemperatureSensors.Tests\TemperatureSensors.Tests.csproj", "{A3A91445-3B8A-4397-9F12-21ED0AEB0B06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF017FE-B0CC-4CF1-AFFD-FD76C3492B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF017FE-B0CC-4CF1-AFFD-FD76C3492B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF017FE-B0CC-4CF1-AFFD-FD76C3492B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF017FE-B0CC-4CF1-AFFD-FD76C3492B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A91445-3B8A-4397-9F12-21ED0AEB0B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A91445-3B8A-4397-9F12-21ED0AEB0B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A91445-3B8A-4397-9F12-21ED0AEB0B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A91445-3B8A-4397-9F12-21ED0AEB0B06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F409620F-C6DF-4271-8A04-B0302B05F4AC}
+	EndGlobalSection
+EndGlobal
